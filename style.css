@@ -182,3 +182,15 @@ footer {
   display: flex;
   font-weight: 500;
 }
+
+/* media queries - acima de 700px vai se comportar dessa maneira */
+
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./Assets/bg-desktop-dark.jpg);
+  }
+
+  .light {
+    --bg-url: url(./assets/bg-desktop-dark.jpg);
+  }
+}

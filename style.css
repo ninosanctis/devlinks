@@ -46,6 +46,7 @@ body {
   /*background: color image repeat position/size */
 
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 }
 
 body * {
@@ -191,6 +192,6 @@ footer {
   }
 
   .light {
-    --bg-url: url(./assets/bg-desktop-dark.jpg);
+    --bg-url: url(./assets/bg-desktop-light.jpg);
   }
 }

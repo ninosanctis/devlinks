@@ -195,17 +195,17 @@ footer {
 
 @media (max-width: 700px) {
   :root {
-    --bg-url: url(./Assets/bg-mobile.jpg);
+    --bg-url: url(./assets/bg-mobile.jpg);
   }
 
   .light {
-    --bg-url: url(./assets/bg-mobilie-light.jpg);
+    --bg-url: url(./assets/bg-mobile-light.jpg);
   }
 }
 
 @media (min-width: 700px) {
   :root {
-    --bg-url: url(./Assets/bg-desktop.jpg);
+    --bg-url: url(./assets/bg-desktop.jpg);
   }
 
   .light {

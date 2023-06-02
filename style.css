@@ -193,7 +193,7 @@ footer {
 
 /* media queries - acima de 700px vai se comportar dessa maneira */
 
-@media (max-width: 700px) {
+@media (max-width: 1080px) {
   :root {
     --bg-url: url(./assets/bg-desktop.jpg);
   }

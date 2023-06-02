@@ -195,7 +195,7 @@ footer {
 
 @media (min-width: 700px) {
   :root {
-    --bg-url: url(./Assets/bg-desktop-dark.jpg);
+    --bg-url: url(./Assets/bg-desktop.jpg);
   }
 
   .light {
